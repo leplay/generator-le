@@ -1,6 +1,6 @@
 # generator-le
 
-A generator for [Yeoman](http://yeoman.io).
+Just Another [Yeoman](http://yeoman.io) Generator.
 
 
 ## Getting Started

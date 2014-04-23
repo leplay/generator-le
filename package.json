@@ -1,0 +1,57 @@
+{
+  "name": "generator-le",
+  "version": "0.0.1",
+  "description": "Yeoman generator",
+  "license": "MIT",
+  "repository": "leplay/generator-le",
+  "author" : {
+      "name" : "leplay",
+      "email" : "leqcany@gmail.com",
+      "url": "https://github.com/leplay"
+  },
+  "main": "app/index.js",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "~0.16.0",
+    "cheerio": "~0.13.0",
+    "chalk": "~0.4.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0",
+    "generator-mocha": ">=0.1.0"
+  },
+  "devDependencies" : {
+      "grunt" : "0.4.2",
+      "grunt-contrib-copy" : "0.5.0",
+      "grunt-contrib-concat" : "0.3.0",
+      "grunt-contrib-uglify" : "0.4.0",
+      "grunt-contrib-clean" : "0.5.0",
+      "grunt-contrib-compass" : "0.7.2",
+      "grunt-contrib-watch" : "0.5.3",
+      "grunt-contrib-imagemin" : "0.5.0",
+      "grunt-contrib-htmlmin" : "0.2.0",
+      "grunt-contrib-requirejs" : "0.4.3",
+      "grunt-contrib-compress" : "0.7.0",
+      "grunt-contrib-connect" : "0.7.1",
+      "grunt-contrib-jshint": "0.8.0",
+      "grunt-rev" : "0.1.0",
+      "grunt-open" : "0.2.3",
+      "grunt-usemin" : "2.0.0",
+      "grunt-concurrent" : "0.4.3",
+      "grunt-bump" : "0.0.13",
+      "matchdep" : "0.3.0",
+      "mocha": "*",
+      "connect-livereload": "0.3.2",
+      "grunt-nodemon" : "0.2.0",
+      "grunt-node-inspector" : "0.1.3"
+  }
+}

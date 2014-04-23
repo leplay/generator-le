@@ -1,0 +1,1 @@
+generator-le[https://github.com/leplay/generator-le]

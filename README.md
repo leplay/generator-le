@@ -1,4 +1,5 @@
-# generator-le
+# generator-le [![NPM version](https://badge.fury.io/js/generator-le.png)](http://badge.fury.io/js/generator-le) [![Dependencies version](https://david-dm.org/leplay/generator-le.png)](http://david-dm.org/leplay/generator-le) [![Dependencies version](https://david-dm.org/leplay/generator-le/dev-status.png)](http://david-dm.org/leplay/generator-le)
+
 
 Just Another [Yeoman](http://yeoman.io) Generator.
 

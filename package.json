@@ -1,6 +1,6 @@
 {
   "name": "generator-le",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Yeoman generator",
   "license": "MIT",
   "repository": {
@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "yeoman-generator": "~0.16.0",
-    "cheerio": "~0.13.0",
+    "cheerio": "~0.15.0",
     "chalk": "~0.4.0"
   },
   "peerDependencies": {
